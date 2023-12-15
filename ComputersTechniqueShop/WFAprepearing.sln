@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFAprepearing", "WFAprepearing.csproj", "{DBC82764-2935-41C7-93AE-537BB1ECC690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC82764-2935-41C7-93AE-537BB1ECC690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC82764-2935-41C7-93AE-537BB1ECC690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC82764-2935-41C7-93AE-537BB1ECC690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC82764-2935-41C7-93AE-537BB1ECC690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {923FEC19-64C4-4C9B-A35A-E7BC510C1663}
+	EndGlobalSection
+EndGlobal
